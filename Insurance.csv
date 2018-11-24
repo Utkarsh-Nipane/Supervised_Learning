@@ -1,0 +1,11 @@
+Age,Average Claims per Year (Rupees),Education,Area,Income
+25,4500,1,Urban,Low
+30,5000,4,Rural,High
+35,6000,3,Urban,
+40,8000,2,Urban,Low
+45,11000,4,Urban,High
+50,15000,1,Urban,Medium
+55,20000,2,,Low
+60,30000,2,Rural,Low
+65,50000,4,Rural,High
+70,100000,1,Rural,Medium
